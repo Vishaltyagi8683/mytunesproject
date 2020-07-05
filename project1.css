@@ -1,0 +1,188 @@
+
+body{
+    margin: 0px 0px;
+}
+.navbar{  
+    
+    font-size: 20px;
+    margin: auto 0px;
+padding: 5px 15px;
+    background-color: #333;
+
+}
+.navbar a{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px ;
+    color: white;
+}
+.navbar a:hover{
+    background-color:grey;
+}
+.intro{ 
+    padding-bottom: 100px;
+  
+    line-height: 1.6rem;
+position: relative;
+    overflow-y: hidden;
+  width: 100%;
+  height: 100vh;
+    background: url(https://c.pxhere.com/photos/46/3b/guitar_people_man_black_and_white_music_playing_musical_guitarist-1034538.jpg!d) no-repeat center/cover;
+color:#fff;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+#p1
+{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+}
+
+.heading-1
+{
+    font-size: 60px;
+    margin-top: 150px ;
+    font-weight: bold;
+}
+
+.heading-2{
+    margin: 50px auto;
+}
+.mid-container{
+    text-align: center;
+    background-color: #252529
+}
+.heading-3{
+    padding-top: 20px;
+    font-size: 50px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+color: white;
+  
+}
+.heading-4{
+    padding-top: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+color: white;
+
+}
+.para1{
+    padding-left: 170px;
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+color: white;
+width: 60%;
+margin-bottom:20px ;
+}
+
+.btn {
+    background: #b90415;;
+    background-image: -webkit-linear-gradient(top, #b90415, #b82baf);
+    background-image: -moz-linear-gradient(top, #b90415, #b82baf);
+    background-image: -ms-linear-gradient(top, #b90415, #b82baf);
+    background-image: -o-linear-gradient(top, #b90415, #b82baf);
+    background-image: linear-gradient(to bottom, #b90415, #b82baf);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 12px 17px 12px 17px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #d3071b;;
+    background-image: -webkit-linear-gradient(top, #d3071b, #e821c3);
+    background-image: -moz-linear-gradient(top, #d3071b, #e821c3);
+    background-image: -ms-linear-gradient(top, #d3071b, #e821c3);
+    background-image: -o-linear-gradient(top, #d3071b, #e821c3);
+    background-image: linear-gradient(to bottom, #d3071b, #e821c3);
+    text-decoration: none;
+  }
+  .btn{
+      margin: 10px auto;
+  }
+  .orange{
+    padding-top: 25px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+color: white;
+  }
+  .img-2{
+      width: 20%;
+  }
+  .mid2h1{
+    padding-top: 20px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+color: black;
+  }
+  .mid2h2{
+      padding-right: 130px;
+      width: 70%;
+    padding-top: 20px;
+    margin-top: 0px;
+    font-weight: bold;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+color: black;
+  }
+  .mid2-container{
+      background-color: rgb(221, 220, 218);
+  }
+  
+  .btn2{
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0px;
+        font-family: 'PT Sans', sans-serif;
+        color: #ffffff;
+        font-size: 22px;
+        background: #3439d9;
+        padding: 13px 17px 12px 9px;
+        text-decoration: none;
+      }
+      
+      .btn2:hover {
+        background: #08a9d1;
+        background-image: -webkit-linear-gradient(top, #08a9d1, #e821c3);
+        background-image: -moz-linear-gradient(top, #08a9d1, #e821c3);
+        background-image: -ms-linear-gradient(top, #08a9d1, #e821c3);
+        background-image: -o-linear-gradient(top, #08a9d1, #e821c3);
+        background-image: linear-gradient(to bottom, #08a9d1, #e821c3);
+        text-decoration: none;
+      }
+      .btn2{
+    text-align: center;
+        margin: 50px 500px;
+      }
+      .last-container{
+          padding:10px 10px;
+          margin: 0px auto;
+          text-align: center;
+        font-family: 'PT Sans', sans-serif;
+          color: white;
+          background-color: black;
+      }
+.a1{
+    padding:10px 15px ;
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.a1:hover{
+    background-color:grey;
+}
